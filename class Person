@@ -1,0 +1,17 @@
+public class Person {
+    String nama, jeniskelamin;
+    int umur;
+
+    public static void main(String[] args) {
+        Person person = new Person();
+
+        person.nama = "";
+        person.jeniskelamin = "";
+        person.umur = ;
+
+        System.out.println("Nama: " + person.nama);
+        System.out.println("Jeniskelamin: " + person.jeniskelamin);
+        System.out.println("Umur: " + person.umur);
+
+    }
+}
